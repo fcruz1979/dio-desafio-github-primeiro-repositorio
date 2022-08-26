@@ -1,2 +1,0 @@
-Link Linguagem MarkDown: https://www.markdownguide.org/getting-started/
-O git Bash é um terminal extendido para otimizar o uso do Git.
