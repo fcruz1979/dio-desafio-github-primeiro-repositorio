@@ -6,10 +6,10 @@ Repositório criado para o desafio de projeto
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-$ git status -> VERIFICA
-$ git add . -> ADD
-$ git commit -m "Inclusão das Anotações do Curso Git/GitHub" -> COMENTA
-$ git push origin main -> CARREGA OS NOVOS DADOS.
+$ git status -> VERIFICA SE HÁ ALTERAÇÕES PENDENTES
+$ git add . -> ADD ESSES DADOS ALETRADOS
+$ git commit -m "Inclusão das Anotações do Curso Git/GitHub" -> INSERE COMENTARIOS
+$ git push origin main -> CARREGA NO SYS ESSES NOVOS DADOS.
 
 Fábio Cruz@DESKTOP-98VM6G7 MINGW64 /c/Workspace/DIO/dio-desafio-github-primeiro-repositorio (main)
 $ git status -> VERIFICA
@@ -71,10 +71,10 @@ $
 
 ALTERAÇÕES 
 
-$ git status -> VERIFICA
-$ git add . -> ADD
-$ git commit -m "Inclusão das Anotações do Curso Git/GitHub" -> COMENTA
-$ git push origin main -> CARREGA OS NOVOS DADOS.
+$ git status -> VERIFICA SE HÁ ALTERAÇÕES PENDENTES
+$ git add . -> ADD ESSES DADOS ALETRADOS
+$ git commit -m "Inclusão das Anotações do Curso Git/GitHub" -> INSERE COMENTARIOS
+$ git push origin main -> CARREGA NO SYS ESSES NOVOS DADOS.
 
 
 Fábio Cruz@DESKTOP-98VM6G7 MINGW64 /c/Workspace/DIO/dio-desafio-github-primeiro-repositorio (main)

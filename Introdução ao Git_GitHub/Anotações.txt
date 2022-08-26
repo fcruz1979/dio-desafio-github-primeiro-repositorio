@@ -1,2 +1,7 @@
 Link Linguagem MarkDown: https://www.markdownguide.org/getting-started/
 O git Bash é um terminal extendido para otimizar o uso do Git.
+
+$ git status -> VERIFICA SE HÁ ALTERAÇÕES PENDENTES
+$ git add . -> ADD ESSES DADOS ALETRADOS
+$ git commit -m "Inclusão das Anotações do Curso Git/GitHub" -> INSERE COMENTARIOS
+$ git push origin main -> CARREGA NO SYS ESSES NOVOS DADOS.
